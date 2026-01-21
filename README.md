@@ -1,1 +1,1 @@
-[![Alt Text](https://camo.githubusercontent.com/de1aadcd587ca2c26991aeb54c0f67151b8fd2fa167448aacde3a40e0a26072f/68747470733a2f2f7777772e6963656769662e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032342f30392f6e79616e2d6361742d6963656769662d31302e676966)](https://your-link.com)
+[![Alt Text](https://gist.githubusercontent.com/yazdipour/91dea3fdf97dba702ed89a6a1b9a98a7/raw/8c4870d4fda64c6f8dbf9d12d579d1ad66c3f360/rainbowcat.gif)](https://your-link.com)
